@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Vmdev2ExternalGitAdpProject
+  gitServerName: vmdev2ExtGit
+  gitUrl: https://github.com/Shilpa-Shivaji-IBM
+  gitUsername: Shilpa-Shivaji-IBM
+  gitBranch: main
